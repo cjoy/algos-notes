@@ -1,4 +1,4 @@
-# My Notes
+# Notes
 
 This repo contains my computer science notes. It may be useful for interview prep etc.
 
